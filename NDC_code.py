@@ -14,7 +14,7 @@ class Projectile:
 
 
 
-#test
+
 class Perso():
     def __init__(self,espece,numero):
         self.dessin_cord=[[0,0],[0,16],[0,32],[0,48]]
